@@ -1,6 +1,17 @@
 # Data-Dive
 "A repository for exploring and analyzing data using various techniques, including data cleaning, visualization, and pattern recognition, aimed at uncovering insights and supporting decision-making."
 
+
+![SQL](https://img.shields.io/badge/Tool-SQL-blue.svg)
+![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg)
+![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-orange.svg)
+![Excel](https://img.shields.io/badge/Tool-Excel-green.svg)
+![Pivot Table](https://img.shields.io/badge/Skill-Pivot%20Table-purple.svg)
+![XLOOKUP](https://img.shields.io/badge/Skill-XLOOKUP-blue.svg)
+![Data Formatting](https://img.shields.io/badge/Skill-Data%20Formatting-yellow.svg)
+![Graphs](https://img.shields.io/badge/Skill-Graphs-red.svg)
+
+
 ## Description
 DataDive is a project focused on performing Exploratory Data Analysis (EDA) to gain insights from datasets. This repository includes data cleaning, visualization, and pattern recognition techniques aimed at supporting decision-making by uncovering key trends and patterns within the data.
 
